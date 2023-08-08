@@ -1,0 +1,43 @@
+2023-08-07 22:22:01,675 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-07 22:26:00,889 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.practice:LoginApplication:0.0.1-SNAPSHOT @ C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\pom.xml.
+2023-08-07 22:26:14,127 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.28/lombok-1.18.28.pom
+2023-08-07 22:26:14,157 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.28/lombok-1.18.28.pom
+2023-08-07 22:26:14,380 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.28/lombok-1.18.28.jar
+2023-08-07 22:26:14,643 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.28/lombok-1.18.28.jar
+2023-08-07 22:26:22,341 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.28/lombok-1.18.28-sources.jar
+2023-08-07 22:26:22,510 [Worker-15: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/projectlombok/lombok/1.18.28/lombok-1.18.28-sources.jar
+2023-08-07 22:26:22,513 [Worker-15: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.projectlombok:lombok:1.18.28
+2023-08-07 22:26:22,970 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend/src/main/java
+2023-08-07 22:26:22,971 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend/src/main/resources
+2023-08-07 22:26:22,974 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /backend/src/main/resources
+2023-08-07 22:26:22,978 [Worker-21: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /backend/src/test/java
+2023-08-07 22:26:30,643 [Worker-21: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 59 sec
+2023-08-07 22:26:36,295 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-07 22:26:36,376 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-07 22:26:36,381 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\src\test\resources
+2023-08-07 22:30:55,090 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-07 22:30:55,126 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-07 22:30:55,129 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\src\test\resources
+2023-08-07 22:33:58,344 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-07 22:33:58,351 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-07 22:33:58,353 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\src\test\resources
+2023-08-07 22:34:15,994 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-07 22:34:16,009 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-07 22:34:16,011 [Worker-24: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\src\test\resources
+2023-08-07 22:43:53,713 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-07 22:43:53,771 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-07 22:43:53,774 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\src\test\resources
+2023-08-07 22:55:54,243 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-07 22:55:54,395 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-07 22:55:54,396 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\src\test\resources
+2023-08-07 22:56:01,011 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-07 22:56:01,025 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-07 22:56:01,027 [Worker-28: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\src\test\resources
+2023-08-07 23:10:23,933 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2023-08-07 23:10:49,587 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2023-08-07 23:10:49,659 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2023-08-07 23:10:49,664 [Worker-4: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\james\Desktop\My Project\LoginApplication - 1\backend\src\test\resources
+2023-08-07 23:11:34,116 [Worker-24: Launching Executing clean in C__Users_james_Desktop_My Project_LoginApplication - 1_backend] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Desktop\My Project\LoginApplication - 1\backend
+2023-08-07 23:11:34,119 [Worker-24: Launching Executing clean in C__Users_james_Desktop_My Project_LoginApplication - 1_backend] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2023-08-07 23:12:07,778 [Worker-3: Launching Executing install in C__Users_james_Desktop_My Project_LoginApplication - 1_backend] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\james\Desktop\My Project\LoginApplication - 1\backend
+2023-08-07 23:12:07,778 [Worker-3: Launching Executing install in C__Users_james_Desktop_My Project_LoginApplication - 1_backend] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install

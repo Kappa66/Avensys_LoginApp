@@ -1,0 +1,35 @@
+/* App.css */
+
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  max-height: 100vh;
+  background-color: #f0f0f0; /* Light color body */
+  margin: 0;
+  padding: 0;
+}
+
+.app-header {
+  background-color: #333; /* Dark color header */
+  color: #ffffff;
+/*  text-align: center;*/
+/*  padding: 20px;*/
+  width: 100%;
+}
+
+.app-header h1 {
+  margin: 10px;
+  font-size: 24px;
+}
+
+.app-main {
+  margin-top: 20px;
+  padding: 20px;
+  background-color: #ffffff; /* Light color for the main content area */
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}
+
+/* Additional styles for Login and Welcome components */
